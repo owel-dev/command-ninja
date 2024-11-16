@@ -1,1 +1,1 @@
-# finger-hero
+# command-ninja
